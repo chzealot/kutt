@@ -32,6 +32,14 @@ const Footer: FC = () => {
         </ALink>
         .{" | "}
         <ALink
+          href="https://beian.miit.gov.cn/"
+          title="浙ICP备2024065559号-3"
+          target="_blank"
+        >
+          浙ICP备2024065559号-3
+        </ALink>
+        {" | "}
+        <ALink
           href="https://github.com/thedevs-network/kutt"
           title="GitHub"
           target="_blank"
