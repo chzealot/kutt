@@ -35,4 +35,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: chzealot/kutt:1.0.2
+          tags: chzealot/kutt:1.0.3
