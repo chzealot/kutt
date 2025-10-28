@@ -82,7 +82,7 @@ class MyApp extends App<any> {
       <>
         <Head>
           <title>
-            荣园短链接
+            柒衡短链接
           </title>
         </Head>
         <StoreProvider store={this.store}>
